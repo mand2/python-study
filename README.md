@@ -13,5 +13,9 @@
     - `tester.py` : `laptop.py` 모듈을 조립, exception 체크하는 모듈 \
     실행을 여기서 하면 된다 ✨
 
+<br>
 
+### 데코레이터
+- `day05`
+    - `decorator_test.py` : 함수 할당과 클로저(데코레이터 concept 잡기) 
 
