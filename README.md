@@ -18,4 +18,5 @@
 ### 데코레이터
 - `day05`
     - `decorator_test.py` : 함수 할당과 클로저(데코레이터 concept 잡기) 
+    - `closure_practice.py` : 클로저와 더 친해지기
 
