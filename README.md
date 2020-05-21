@@ -25,4 +25,5 @@
 - `day06`
     - `deco_args1.py` : decorator의 wrapper function에서 args 변환하기
     - `deco_args2.py` : args, kwargs 설정
+    - `deco_args3.py` : 디버깅 쉽게하기::: decorator를 사용한 메서드의 name, doc 설정
 
