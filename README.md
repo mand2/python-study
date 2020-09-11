@@ -34,6 +34,7 @@
     - `d08.py` 
     - `d09.py` 👉 Daily-Algorithm repo [K번째수](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/K번째수_py.md) 
     - `d10.py` 👉 Daily-Algorithm repo [같은숫자는싫어](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/같은숫자는싫어_py.md) 
+    - `d11.py` 👉 Daily-Algorithm repo [크레인 인형뽑기 게임](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/크레인인형뽑기게임_py.md) 
 
 
 
