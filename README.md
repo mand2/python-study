@@ -37,6 +37,7 @@
     - `d11.py` 👉 Daily-Algorithm repo [크레인 인형뽑기 게임](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/크레인인형뽑기게임_py.md) 2019 카카오 겨울 인턴십
     - `d12.py` 👉 Daily-Algorithm repo [2016년](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/2016년_py.md) 
     - `d13.py` 👉 Daily-Algorithm repo [두 개 뽑아서 더하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/두개뽑아서더하기_py.md) 
+    - `d14.py` 👉 Daily-Algorithm repo [삼각 달팽이](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/삼각달팽이_py.md) 
 
 
 
