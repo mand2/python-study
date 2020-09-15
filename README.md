@@ -38,6 +38,9 @@
     - `d12.py` 👉 Daily-Algorithm repo [2016년](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/2016년_py.md) 
     - `d13.py` 👉 Daily-Algorithm repo [두 개 뽑아서 더하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/두개뽑아서더하기_py.md) 
     - `d14.py` 👉 Daily-Algorithm repo [삼각 달팽이](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/삼각달팽이_py.md) 
+    - `d15.py` 👉 Daily-Algorithm repo 에 올릴 예정.
+    - `d16.py` 👉 Daily-Algorithm repo 에 올릴 예정.
+    - `d17.py` 👉 Daily-Algorithm repo 에 올릴 예정.
 
 
 
