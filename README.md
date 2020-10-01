@@ -27,6 +27,8 @@
     - `deco_args2.py` : args, kwargs 설정
     - `deco_args3.py` : 디버깅 쉽게하기::: decorator를 사용한 메서드의 name, doc 설정
 
+<br>
+
 ### 알고리즘 & 자료구조
 - `day07` : list 자료구조형
 - `prgrms`  
@@ -49,5 +51,13 @@
     - `d23.py` 👉 Daily-Algorithm repo 에 올릴 예정.
 
 
+<br>
 
+### 스파르타온라인
+추석 20.10.01 ~ 20.10.11 기간동안 무료 파이썬강의
 
+- 1일차 
+    - `d01_1.py`
+    - `d01_2.py`
+    - `d01_3.py`
+    - 아직 숙제부분은 ... 오늘은 여기까지~
