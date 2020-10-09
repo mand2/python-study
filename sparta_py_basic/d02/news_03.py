@@ -31,7 +31,7 @@ for you in email_list:
 
     # 메일 내용 쓰기
     content = '메일 내용'
-    content_txt = MIMEText(content, 'plain')  # 메일 내용을 html 태그 형태로 변환
+    content_txt = MIMEText(content, 'plain')  # 메일 내용을 기본 txt 형태로 변환
     msg.attach(content_txt)  # 메세지에 추가
 
     # 첨부파일 만들기
