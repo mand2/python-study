@@ -7,7 +7,7 @@ from selenium import webdriver
 import time
 import urllib.request as url_req
 
-driver = webdriver.Chrome('chromedriver')
+driver = webdriver.Chrome('../chromedriver')
 search_url = 'https://www.google.com/search?q=아이들+슈화&source=lnms&tbm=isch'
 driver.get(search_url)
 
